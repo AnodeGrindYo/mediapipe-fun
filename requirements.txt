@@ -1,0 +1,9 @@
+# Core dependencies
+opencv-python>=4.10.0
+mediapipe>=0.10.14
+numpy>=1.26.0
+
+# Optional (utile pour tests, lint et typage)
+mypy>=1.11.0
+flake8>=7.1.0
+pytest>=8.3.0
