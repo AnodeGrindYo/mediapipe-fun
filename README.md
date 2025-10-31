@@ -5,6 +5,10 @@ C’est un petit démonstrateur de **vision par ordinateur interactive**, combin
 
 ---
 
+Essayez une version web (ici)[https://codepen.io/Adr_G/full/gbPBpdG]
+
+---
+
 ## 🧬 Fonctionnalités
 
 * Suivi des **deux index** à l’aide de MediaPipe Hands
